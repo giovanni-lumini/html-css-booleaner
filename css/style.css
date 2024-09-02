@@ -1,7 +1,7 @@
 /* #region header */
 #logo{
     width:200px;
-    margin-left: 50px;
+    margin-left: 100px;
     margin-top: 40px;
 }
 
@@ -74,10 +74,35 @@ header{
     background-color: yellow;
 }
 
+.interesting{
+    color: grey;
+    margin-bottom: 3px;
+}
 
+#h3photo1{
+    background-image: url(../img/monitor.jpg);
+    width: 300px;
+    height: 200px;
+    padding: 10px;
+    margin-top: 3px;
+}
 
+#h3photo2{
+    background-image: url(../img/graph.jpg);
+    width: 300px;
+    height: 200px;
+    padding: 10px;    
+}
 
+#section-photo{
+    font-size: 20px;
+    color: white;    
+}
 
+#pagemargin{
+    margin-left: 100px;
+    margin-right: 100px;
+}
 
 
 /* #endregion main */
