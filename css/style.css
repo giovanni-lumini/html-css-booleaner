@@ -1,3 +1,4 @@
+/* #region header */
 #logo{
     width:200px;
     margin-left: 50px;
@@ -11,4 +12,43 @@ header{
     background-repeat: repeat-x;
     height: 100px;
 }
+/* #endregion header */
 
+/* #region main */
+#title{
+    margin-bottom: 5px;
+}
+
+#Booleaner{
+    color: rgb(64, 151, 205);
+}
+
+#write{
+    color: grey;
+}
+
+#date{
+    color: grey;
+    font-size: 10px;
+}
+
+#lee1{
+    margin-top: 20px;
+}
+
+.principal-photo-description{
+    font-size: 10px;
+    margin: 1px;
+}
+
+#ph1-description{
+    margin: 1px;
+}
+#ph2-description{
+    margin: 1px;
+}
+
+
+
+
+/* #endregion main */
