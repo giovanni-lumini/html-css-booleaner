@@ -44,9 +44,38 @@ header{
 #ph1-description{
     margin: 1px;
 }
+
 #ph2-description{
     margin: 1px;
 }
+
+.thead{
+    text-align: left;
+    background-color: rgb(100, 179, 205);
+}
+
+.table25{
+    width: 25%;
+}
+
+.table50{
+    width: 50%;
+}
+
+.table-spacing{
+    border-spacing: 0px;
+}
+
+.color-tbody{
+    background-color: rgb(177, 204, 212);
+}
+
+.back-yellow{
+    background-color: yellow;
+}
+
+
+
 
 
 
